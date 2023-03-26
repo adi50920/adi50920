@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Rai</h1>
 <h3 align="center">I am a web developer currently exploring DS/ML</h3>
 
-<img align="right" alt="GIF" width="400" src="![image](https://user-images.githubusercontent.com/98736611/227780939-0271ab20-a0fa-4a99-9d65-8d0b1f02d8c9.png)
-"/>
+<img align="right" alt="GIF" width="400" src="[https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif](https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi50920&label=Profile%20views&color=0e75b6&style=flat" alt="adi50920" /> </p>
 
