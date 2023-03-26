@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DS/ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adi50920?tab=repositories](https://github.com/adi50920?tab=repositories)
+- 👨‍💻 All of my projects are available in my <a href="https://github.com/adi50920?tab=repositories" target="blank">Repositories</a>
 
 - 💬 Ask me about **Web Dev**
 
