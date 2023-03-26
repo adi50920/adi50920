@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **adityarai50920@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VvgaXLqwAYcdYN2vRoWSusZHOVErbgbu/view?usp=sharing](https://drive.google.com/file/d/1VvgaXLqwAYcdYN2vRoWSusZHOVErbgbu/view?usp=sharing)
+- 📄 Know about my experiences in my <a href="[https://instagram.com/_adityaarai](https://drive.google.com/file/d/1VvgaXLqwAYcdYN2vRoWSusZHOVErbgbu/view?usp=sharing)" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
