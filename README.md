@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Rai</h1>
 <h3 align="center">I am a web developer currently exploring DS/ML</h3>
 
-<img align="right" alt="GIF" width="400" src="https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif"/>
+<img align="right" alt="GIF" width="400" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi50920&label=Profile%20views&color=0e75b6&style=flat" alt="adi50920" /> </p>
 
