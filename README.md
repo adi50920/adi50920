@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityarai50920@gmail.com**
 
-- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1PEz5Hdwcq85OJ4tRLl8XBT9FYt-ZxaqN/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1MK8ITO2BeFNEEYwcEDJgbi7oWHjD0y3B/view?usp=sharing" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
