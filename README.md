@@ -7,6 +7,7 @@
 <!-- <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/98736611/227781411-e90dc171-f608-4cad-8f69-2007ca334de4.gif"/> -->
 <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/98736611/227781411-e90dc171-f608-4cad-8f69-2007ca334de4.gif"/>
 <!-- ![coding-typing](https://user-images.githubusercontent.com/98736611/227781411-e90dc171-f608-4cad-8f69-2007ca334de4.gif) -->
+
 - 🌱 I’m currently learning **DS/ML**
 
 - 👨‍💻 All of my projects are available in my <a href="https://github.com/adi50920?tab=repositories" target="blank">Repositories</a>
