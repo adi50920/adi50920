@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Rai</h1>
-<h3 align="center">I am a web developer currently exploring DS/ML</h3>
+<h3 align="center">I am a software developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi50920&label=Profile%20views&color=0e75b6&style=flat" alt="adi50920" /> </p>
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available in my <a href="https://github.com/adi50920?tab=repositories" target="blank">Repositories</a>
 
-- 💬 Ask me about **Web Dev**
+- 💬 Ask me about **Web Dev / Hybrid App**
 
 - 📫 How to reach me **adityarai50920@gmail.com**
 
-- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1PEz5Hdwcq85OJ4tRLl8XBT9FYt-ZxaqN/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences in my <a href="[https://drive.google.com/file/d/1PEz5Hdwcq85OJ4tRLl8XBT9FYt-ZxaqN/view?usp=sharing](https://drive.google.com/file/d/1l6DU8kS5PpGEH7e1Mw94vtBpHu3GDIYA/view?usp=sharing)" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
