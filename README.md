@@ -2,7 +2,6 @@
 <h3 align="center">I am a software developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi50920&label=Profile%20views&color=0e75b6&style=flat" alt="adi50920" /> </p>
 
 <!-- <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/98736611/227781411-e90dc171-f608-4cad-8f69-2007ca334de4.gif"/> -->
 <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/98736611/227781411-e90dc171-f608-4cad-8f69-2007ca334de4.gif"/>
